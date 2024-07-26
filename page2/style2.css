@@ -1,0 +1,15 @@
+
+*{
+    background-color: blue;
+}
+
+.container {
+    color:black;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px ;
+}
+.img-container p {
+    margin: 0;
+}
